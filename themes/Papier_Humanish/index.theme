@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Humanish-light-compact
+Comment=A Material Design theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Humanish-light-compact
+MetacityTheme=Humanish-light-compact
+IconTheme=Adwaita
+CursorTheme=Adwaita
+CursorSize=24

@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=AndroidDark-dark-compact
+Comment=A Material Design theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=AndroidDark-dark-compact
+MetacityTheme=AndroidDark-dark-compact
+IconTheme=Adwaita
+CursorTheme=Adwaita
+CursorSize=24
